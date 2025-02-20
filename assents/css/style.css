@@ -3,7 +3,7 @@ body {
 }
 
 .hero {
-    background: linear-gradient(to right, #007bff, #00c6ff);
+    background: linear-gradient(to right, #000000, #616263);
     color: white;
     padding: 80px 0;
 }
@@ -12,6 +12,7 @@ body {
     width: 150px;
     border-radius: 50%;
 }
+
 
 .section-title {
     margin-top: 50px;
